@@ -1,10 +1,19 @@
+# This Library is used To describe the Data
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 
-### https://shobiddak.com/cars/647396
+# import for xcel sheet to print on it
+import xlsxwriter
+
+# install Chrome Browser to run a code On it
 browser = webdriver.Chrome(ChromeDriverManager().install())
 
-# The first car was add to the Website is --> https://shobiddak.com/cars/432300
+# Create a workbook and add a worksheet.
+workbook = xlsxwriter.Workbook('Palestine_car.xlsx')
+worksheet = workbook.add_worksheet()
+
+
+
 
 
 
@@ -12,6 +21,7 @@ Link = "https://shobiddak.com/cars/"
 CarNum = 432300
 
 print("-------------------------------")
+# The first car was add to the Website is --> https://shobiddak.com/cars/432300
 
 for iii in range(432300,667367):
     try:
