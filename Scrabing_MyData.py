@@ -44,7 +44,7 @@ CarNum = 432300
 
 
 
-for iii in range(432300,667367):
+for iii in range(432300,432305):
     try:
         StrNumCar = str(iii)
         FinalLink = Link + StrNumCar
@@ -89,17 +89,17 @@ for iii in range(432300,667367):
         # print("The amount of use the car in km--->",distance.get_attribute('innerHTML'))
         worksheet.write(row, col + 6, distance.get_attribute('innerHTML'))
 
-        # print("The price for This car is -->",listToStrPrice)
-        worksheet.write(row, col + 7, listToStrPrice)
+        # print("The orgin of the car is --->" + car_license.get_attribute('innerHTML'))
+        worksheet.write(row, col + 7, car_license.get_attribute('innerHTML'))
 
         # also here we add some thing
 
-
-        # print("The orgin of the car is --->" + car_license.get_attribute('innerHTML'))
-        worksheet.write(row, col + 8, car_license.get_attribute('innerHTML'))
-
         # print("The data that the Ad was publish is ---> " + data_publish.get_attribute('innerHTML'))
-        worksheet.write(row, col + 9, data_publish.get_attribute('innerHTML'))
+        worksheet.write(row, col + 8, data_publish.get_attribute('innerHTML'))
+
+
+        # print("The price for This car is -->",listToStrPrice)
+        worksheet.write(row, col + 9, listToStrPrice)
         row += 1
 
         # print("------------------------------------")
