@@ -1,0 +1,532 @@
+﻿Make,Model,produce year,Color,fuel Type,gear Type,eng power,distance,Origin,Ad data push,price
+Fiat,Panda,2010,Golden ,Petrol ,manuel,1250,100000,private ,24/09/2016,37000
+Kia,Cerato,2007,Silver ,Petrol ,Automatic,1600,103000,private ,26/09/2016,47500
+Opel,Astra,2011,Black ,Petrol ,manuel,1600,106000,private ,20/09/2016,65000
+VW,Polo,2011,Red ,Petrol ,manuel,1400,116000,private ,21/09/2016,64000
+Kia,Sportage,2011,Residential ,Diesel ,Automatic,2000,118000,private ,22/09/2016,96100
+Hyundai,Tucson,2006,Silver ,Diesel ,Automatic,1900,120000,private ,20/09/2016,56000
+Ford,Focus,2009,Gray ,Petrol ,manuel,1600,120000,private ,20/09/2016,48000
+VW,Golf,2008,Army color ,Petrol ,manuel,1600,120000,private ,21/09/2016,72000
+Skoda,Octavia,2010,Silver ,Diesel ,manuel,1600,120000,private ,26/09/2016,79000
+Sang,Young Rxton,2006,Black Metallic ,Diesel ,Automatic,2700,124000,private ,25/09/2016,65000
+Kia,Pride,2007,White ,Petrol ,Automatic,1500,125000,private ,26/09/2016,46000
+Skoda,Octavia,2008,Silver ,Petrol ,Automatic,1600,127000,private ,20/09/2016,58000
+Hyundai,Verna,2007,Residential ,Petrol ,Automatic,1400,130000,private ,22/09/2016,43500
+Hyundai,Elantra,2006,White ,Diesel ,manuel,2000,130000,private ,25/09/2016,39000
+VW,Touran,2012,Blue ,Diesel ,Automatic,1600,135000,private ,24/09/2016,100000
+Honda,CR-V,2007,Red ,Petrol ,Automatic,2000,140000,private ,24/09/2016,110000
+Opel,Astra,2006,Silver ,Petrol ,manuel,1600,150000,private ,21/09/2016,45000
+Hyundai,i30,2008,Silver ,Diesel ,Automatic,1600,150000,private ,21/09/2016,57000
+Opel,Astra,2006,Silver ,Petrol ,Automatic,1800,150000,private ,25/09/2016,49500
+VW,Touran,2008,Ferrani ,Diesel ,Automatic,1900,150000,private ,25/09/2016,85000
+Chevrolet,Optra,2006,Blue ,Petrol ,Automatic,1600,160000,private ,24/09/2016,34000
+Fiat,Punto,2009,Gray ,Petrol ,manuel,1250,160000,private ,25/09/2016,43000
+Mazda,6,1992,Ferrani ,Petrol ,Automatic,2000,240000,private ,24/09/2016,30000
+Kia,Sayed,2011,White ,Petrol ,Automatic,1600,456000,Taxi ,24/09/2016,59000
+Hyundai,Elantra,1999,White ,Diesel ,manuel,1900,456000,Taxi ,24/09/2016,19000
+Chevrolet,Malibu,2010,Residential ,Petrol ,Automatic,3500,100000,private ,24/09/2016,69000
+Hyundai,2008,2009,grey R ,Diesel ,Automatic,2000,120000,private ,24/09/2016,66000
+Peugeot,developer,2015,Blue ,Petrol ,Automatic,125,200000,private ,24/09/2016,10500
+Motorcycle,Piaggio 250,2016,Black ,Petrol ,Automatic,250,25000,private ,25/09/2016,20000
+VW,Golf,2014,Russet ,Petrol ,Automatic,1400,10000,private ,24/09/2016,119000
+Hyundai,i30,2009,Red ,Petrol ,Automatic,1600,10000,private ,27/09/2016,56500
+Hyundai,i30,2009,Red ,Petrol ,Automatic,1600,10000,private ,27/09/2016,57500
+Hyundai,Accent,2015,Residential ,Petrol ,Automatic,1600,11000,private ,24/09/2016,80000
+VW,Caddy,2012,Red ,Diesel ,manuel,1600,12000,private ,22/09/2016,93000
+Fiat,Panda,2015,Black Metallic ,Petrol ,manuel,1250,12200,private ,24/09/2016,57000
+Fiat,Vorino,1987,White ,Petrol ,manuel,1050,12228,private ,21/09/2016,11000
+Hyundai,Avante,2005,White ,Petrol ,manuel,1600,13000,private ,21/09/2016,49000
+Citroen,Berlingo,2012,Black ,Diesel ,manuel,1600,13000,private ,22/09/2016,80000
+VW,Golf,2002,Silver ,Petrol ,Automatic,1600,13000,private ,25/09/2016,6000
+Mercedes,220,2002,White ,Diesel ,Automatic,2200,14000,Taxi ,22/09/2016,65000
+Kia,Pride,2014,White ,Petrol ,manuel,1400,14000,private ,26/09/2016,65000
+Opel,Astra,2006,Russet ,Petrol ,manuel,1600,15000,private ,24/09/2016,50000
+Kia,Forte,2008,Black Metallic ,Petrol ,Automatic,1600,17200,private ,25/09/2016,59000
+Kia,Sportage,2013,Residential ,Diesel ,Automatic,2000,18000,private ,21/09/2016,107000
+Skoda,Octavia,2014,Brown ,Diesel ,manuel,1600,18000,private ,22/09/2016,112000
+Mercedes,GL350,2007,Gray ,Diesel ,Automatic,3200,18000,private ,25/09/2016,220000
+Hyundai,Accent,2014,White ,Petrol ,Automatic,1400,18000,private ,24/09/2016,73000
+BMW,520,2014,Brown ,Petrol ,Automatic,2000,18000,private ,26/09/2016,220000
+VW,Caddy,2008,Residential ,Diesel ,manuel,1900,18000,private ,27/09/2016,83000
+Hyundai,Accent,2014,Silver ,Petrol ,Automatic,1400,19000,private ,20/09/2016,66800
+Hyundai,Accent,2014,Red ,Petrol ,Automatic,1400,19000,private ,24/09/2016,75000
+Hyundai,Tucson,2011,Ferrani ,Diesel ,Automatic,1600,19000,private ,25/09/2016,98000
+Hyundai,Hendaa,2014,Kermidi ,Petrol ,manuel,1400,19500,private ,25/09/2016,70000
+Opel,Corsa,2015,Blue ,Petrol ,Automatic,1400,20000,private ,20/09/2016,82500
+Volkswagen,Tiguan,2014,Golden ,Petrol ,Automatic,1400,20000,private ,22/09/2016,143000
+Mitsubishi,Lancer,2012,Silver ,Petrol ,Automatic,1800,20000,private ,24/09/2016,100000
+Skoda,Octavia,2014,Russet ,Petrol ,manuel,1400,20000,private ,25/09/2016,99000
+VW,Golf,2006,Red ,Petrol ,manuel,1600,20000,private ,24/09/2016,70000
+Fiat,Uno,1989,Russet ,Petrol ,manuel,1100,20000,private ,24/09/2016,11500
+Opel,2008,2008,Blue ,Petrol ,manuel,1400,20000,private ,25/09/2016,46000
+Skoda,Octavia,2014,Russet ,Petrol ,manuel,1400,20000,private ,25/09/2016,98000
+Audi,a3,2015,White ,Petrol ,Automatic,1400,21000,private ,10/10/2016,170000
+Subaru,Wide,1988,Blue ,Petrol ,manuel,1600,21000,private ,25/09/2016,20000
+Fiat,Panda,2014,Brown ,Petrol ,manuel,1250,22000,private ,20/09/2016,51300
+Citroen,Jumpy2012,2012,Black ,Diesel ,manuel,2000,22000,private ,22/09/2016,107000
+Rover,s400,1996,White ,Petrol ,Automatic,1600,22000,private ,25/09/2016,2000
+Fiat,Uno,1992,White ,Petrol ,manuel,1000,23232,private ,25/09/2016,21000
+Opel,Ascona,1983,Green ,Petrol ,manuel,1600,23455,private ,24/09/2016,13000
+Hyundai,Accent,2015,Silver ,Petrol ,Automatic,1400,24000,private ,20/09/2016,71000
+Hyundai,Accent,2013,Ferrani ,Petrol ,Automatic,1400,24000,private ,22/09/2016,75000
+Skoda,Fabia,2014,grey R ,Petrol ,manuel,1200,25000,private ,20/09/2016,59500
+Peugeot,Brantr,1998,Gray ,Diesel ,manuel,1900,25000,private ,21/09/2016,3500
+Hyundai,Accent,2013,Residential ,Diesel ,Automatic,1600,25000,private ,26/09/2016,69000
+Skoda,Octavia,2015,Residential ,Petrol ,manuel,1400,26000,private ,21/09/2016,112000
+Kia,Cerato,2013,White Ivory ,Petrol ,Automatic,1600,26000,private ,24/09/2016,86000
+Mercedes,Mercedes CLA200,2013,White Ivory ,Petrol ,Automatic,1600,26000,private ,26/09/2016,203000
+VW,Polo,2014,Residential ,Petrol ,manuel,1200,28000,private ,21/09/2016,70000
+VW,Polo,2014,Blue ,Petrol ,Automatic,1400,28000,private ,22/09/2016,85000
+Hyundai,Accent,2013,White ,Diesel ,Automatic,1600,28000,private ,26/09/2016,760000
+Hyundai,Elantra,1999,White Ivory ,Petrol ,Automatic,1600,29000,training ,22/09/2016,26000
+Fiat,Panda,2014,Black ,Petrol ,manuel,1250,29000,private ,24/09/2016,53000
+Kia,Cerato,2014,Blue ,Petrol ,Automatic,1600,30000,private ,21/09/2016,90000
+Hyundai,Accent,2013,Black Metallic ,Petrol ,Automatic,1600,30000,private ,22/09/2016,800000
+VW,Polo,2015,White Ivory ,Petrol ,manuel,1200,30000,private ,24/09/2016,73000
+Hyundai,Accent,2013,Silver ,Diesel ,Automatic,1400,30000,private ,24/09/2016,66000
+Hyundai,Accent,2013,Silver ,Diesel ,Automatic,1600,30000,private ,24/09/2016,71000
+Skoda,Fabia,2012,Gray ,Petrol ,manuel,1400,30000,private ,26/09/2016,59000
+Hyundai,Accent,2014,Russet ,Petrol ,Automatic,1400,31000,private ,24/09/2016,75000
+Hyundai,Accent,2014,Ferrani ,Petrol ,Automatic,1400,31000,private ,24/09/2016,75000
+Kia,Rio,2013,Silver ,Petrol ,manuel,1250,31000,private ,25/09/2016,65000
+Hyundai,Velostr,2011,Orange ,Petrol ,manuel,1600,32000,private ,21/09/2016,79000
+Hyundai,Accent,2014,Residential ,Petrol ,Automatic,1400,32000,private ,22/09/2016,65500
+Hyundai,Accent,2014,Residential ,Petrol ,Automatic,1400,32000,private ,26/09/2016,64500
+Hyundai,Accent,2014,Silver ,Petrol ,Automatic,1400,33000,private ,22/09/2016,72000
+Fiat,Panda,2014,Residential ,Petrol ,manuel,1250,34000,private ,21/09/2016,57000
+Hyundai,Santaver,2014,Gray ,Diesel ,Automatic,2200,34000,private ,22/09/2016,178000
+Kia,Pride,2013,Silver ,Petrol ,Automatic,1400,34000,private ,22/09/2016,67000
+BMW,318,2003,Blue ,Petrol ,manuel,1800,34000,private ,24/09/2016,73500
+Skoda,Fabia,2013,Army color ,Petrol ,manuel,1400,34000,private ,25/09/2016,65000
+Hyundai,Accent,2014,Silver ,Petrol ,Automatic,1400,35000,private ,21/09/2016,75000
+Hyundai,Elantra,1999,Silver ,Diesel ,manuel,1900,35000,private ,21/09/2016,22000
+Hyundai,Sonata,1999,Gray ,Petrol ,Automatic,1900,35000,private ,22/09/2016,22000
+Peugeot,308,2011,Silver ,Petrol ,Automatic,1600,35000,private ,21/09/2016,56000
+Hyundai,Elantra,2011,White ,Petrol ,Automatic,1600,35000,private ,24/09/2016,78000
+Fiat,Uno,1990,Black ,Petrol ,manuel,1000,35000,Rental ,24/09/2016,19000
+Hyundai,Accent,2013,Ferrani ,Petrol ,Automatic,1400,35000,private ,24/09/2016,69000
+Hyundai,Accent,2014,Silver ,Petrol ,Automatic,1400,35000,private ,25/09/2016,75000
+Hyundai,Tucson,2013,Gray ,Diesel ,Automatic,2000,35000,private ,26/09/2016,94000
+BMW,328i sport line black edition,2014,Black Metallic ,Petrol ,Automatic,2000,36000,private ,22/09/2016,220000
+Hyundai,Accent,2013,Silver ,Petrol ,Automatic,1400,37000,private ,20/09/2016,68000
+Skoda,Yeti,2013,Blue Cyan ,Petrol ,Automatic,1200,37000,private ,24/09/2016,110000
+Skoda,Octavia,2014,Black Metallic ,Diesel ,Automatic,2000,37000,private ,25/09/2016,119000
+Kia,Cerato,2014,Black Metallic ,Petrol ,Automatic,1600,37000,private ,25/09/2016,83000
+Hyundai,i30,2013,White Ivory ,Petrol ,Automatic,1600,38000,private ,25/09/2016,83000
+Volkswagen,Tiguan,2013,Brown ,Petrol ,Automatic,2000,38000,private ,26/09/2016,175000
+VW,Polo,2015,White Ivory ,Petrol ,manuel,1600,39000,private ,20/09/2016,64500
+Skoda,Rapid,2013,Silver ,Diesel ,manuel,1600,39000,private ,22/09/2016,85000
+Kia,Sportage,2011,Red ,Diesel ,Automatic,2000,40000,private ,20/09/2016,120000
+Hyundai,Accent,2013,Silver ,Diesel ,Automatic,1600,40000,private ,21/09/2016,72000
+Skoda,Superb,2013,grey R ,Diesel ,Automatic,2000,40000,private ,21/09/2016,145000
+Hyundai,Accent,2013,White ,Petrol ,Automatic,1400,40000,private ,21/09/2016,68000
+Mercedes,C200,2010,Black ,Petrol ,Automatic,2000,40000,private ,22/09/2016,130000
+Peugeot,206+,2012,Red ,Petrol ,manuel,1400,40000,private ,22/09/2016,45000
+Hyundai,Accent,2012,Ferrani ,Petrol ,manuel,1600,40000,private ,24/09/2016,68000
+Opel,Corsa,2014,Black ,Petrol ,manuel,1400,40000,private ,24/09/2016,61000
+VW,Polo,2015,Residential ,Petrol ,manuel,1250,40000,private ,25/09/2016,70000
+Hyundai,ix35,2012,White Ivory ,Petrol ,Automatic,2000,40000,private ,25/09/2016,100000
+Kia,Rio,2013,Ferrani ,Petrol ,Automatic,1400,40000,private ,26/09/2016,61500
+Hyundai,i20,2013,Black ,Petrol ,Automatic,1400,40000,private ,26/09/2016,70000
+Mitsubishi,Space Star,2015,Blue ,Petrol ,Automatic,1200,40000,private ,26/09/2016,68000
+VW,Golf,2012,grey R ,Petrol ,Automatic,1200,41000,private ,21/09/2016,90000
+Hyundai,Accent,2014,White ,Diesel ,Automatic,1600,41000,private ,25/09/2016,76000
+Skoda,Octavia,2013,White ,Diesel ,manuel,1600,42000,private ,21/09/2016,100000
+Skoda,Fabia,2007,White ,Diesel ,manuel,2000,43000,Taxi ,24/09/2016,43000
+Hyundai,Accent,2014,White ,Diesel ,Automatic,1600,43400,private ,20/09/2016,67000
+Hyundai,Accent,2014,White ,Diesel ,Automatic,1600,43500,private ,25/09/2016,67500
+Citroen,Berlingo,2014,Blue ,Diesel ,manuel,1600,44000,private ,24/09/2016,97000
+Kia,Soul,2010,Red ,Petrol ,Automatic,1600,44000,private ,26/09/2016,62000
+Rover,s400,1996,White Ivory ,Petrol ,manuel,1600,44444,private ,20/09/2016,19000
+VW,Caddy,2014,grey R ,Diesel ,manuel,1600,45000,private ,21/09/2016,115000
+Hyundai,i30,2012,White ,Petrol ,Automatic,1600,45000,private ,21/09/2016,83500
+Peugeot,207,2012,Blue Cyan ,Petrol ,Automatic,1600,45000,private ,21/09/2016,58000
+Chevrolet,Optra,2008,Red ,Petrol ,Automatic,1600,45000,private ,21/09/2016,41500
+Rover,s75,2000,Oily Color ,Petrol ,Automatic,2000,45000,private ,25/09/2016,45000
+Peugeot,206+,2011,Ferrani ,Petrol ,manuel,1400,47000,private ,20/09/2016,42000
+Skoda,Octavia,2013,Blue ,Petrol ,Automatic,1400,47000,private ,22/09/2016,125000
+Citroen,C5,2013,Golden ,Petrol ,Automatic,1600,47000,private ,30/09/2016,110000
+VW,Caddy,2013,White ,Diesel ,manuel,1600,48000,private ,24/09/2016,110000
+Skoda,Rapid,2012,بترولي ,Diesel ,manuel,1600,48000,private ,25/09/2016,84000
+Hyundai,Accent,2013,Silver ,Petrol ,Automatic,1400,49000,private ,24/09/2016,72000
+VW,Golf,2015,Ferrani ,Petrol ,Automatic,1400,49000,private ,25/09/2016,120000
+Ford,Fiesta,2012,Black ,Petrol ,manuel,1250,50000,private ,20/09/2016,55000
+Ford,Fiesta,2013,Blue ,Petrol ,manuel,1250,50000,private ,21/09/2016,52000
+Hyundai,2008,2008,Black ,Petrol ,manuel,1900,50000,private ,22/09/2016,59000
+Seat,Ibiza,2014,White Ivory ,Petrol ,Automatic,1400,50000,private ,25/09/2016,95000
+Opel,Corsa,2013,Silver ,Petrol ,manuel,1400,50000,private ,25/09/2016,55000
+Volvo,Fl614,1992,White Ivory ,Diesel ,manuel,1800,50000,Commercial ,26/09/2016,75000
+Skoda,Felicia,2000,White Ivory ,Diesel ,manuel,1600,52000,Commercial ,25/09/2016,30000
+Peugeot,308,2011,Ferrani ,Petrol ,Automatic,1600,52200,private ,27/09/2016,56000
+Opel,Corsa,2013,Gray ,Petrol ,manuel,1400,53000,private ,01/10/2016,57500
+Hyundai,Tucson,2009,Black ,Diesel ,manuel,2000,54000,private ,22/09/2016,65000
+Citroen,Berlingo,2013,White Ivory ,Diesel ,manuel,1600,55000,private ,21/09/2016,85000
+Hyundai,i25,2013,White ,Diesel ,manuel,1600,55000,private ,22/09/2016,78000
+VW,Touran,2014,Residential ,Diesel ,Automatic,1600,55000,private ,21/09/2016,119000
+Hyundai,Accent,2013,White ,Petrol ,Automatic,1400,55000,private ,22/09/2016,75000
+Opel,Corsa,2014,White ,Petrol ,manuel,1400,55000,private ,22/09/2016,62000
+Mercedes,C250,2013,Black Metallic ,Petrol ,Automatic,1800,55000,private ,24/09/2016,169000
+Hyundai,Tucson,2013,Residential ,Diesel ,Automatic,2000,55000,private ,24/09/2016,105000
+Skoda,Octavia,2009,White ,Diesel ,manuel,1900,56000,Taxi ,25/09/2016,67000
+VW,Polo,2014,Ferrani ,Petrol ,manuel,1200,57000,private ,20/09/2016,70000
+Mercedes,C200,2007,White Ivory ,Diesel ,Automatic,2000,58734,Taxi ,22/09/2016,62000
+Kia,Sportage,2012,Ferrani ,Diesel ,Automatic,1995,59000,private ,20/09/2016,110000
+VW,Caddy,2013,White ,Diesel ,manuel,1600,59000,private ,22/09/2016,115000
+Citroen,Berlingo,2014,Blue ,Petrol ,manuel,1600,59921,private ,26/09/2016,82900
+Peugeot,Partner,2014,Blue ,Diesel ,manuel,1600,59921,private ,26/09/2016,82900
+Ford,Fiesta,2012,Blue ,Petrol ,manuel,1250,60000,private ,21/09/2016,51000
+Chevrolet,Traverse,2011,Black Metallic ,Petrol ,Automatic,3600,60000,private ,22/09/2016,190000
+Seat,Cordoba,2008,White Ivory ,Diesel ,manuel,1900,60000,Taxi ,22/09/2016,43000
+VW,Polo,2014,Residential ,Petrol ,manuel,1200,60000,private ,26/09/2016,72000
+VW,Caddy,2013,Residential ,Diesel ,manuel,1600,60000,private ,26/09/2016,1111
+Nissan,Juke,2012,Blue ,Petrol ,Automatic,1600,60000,private ,03/01/2017,89000
+Kia,Pride,2008,Silver ,Petrol ,Automatic,1600,62000,private ,24/09/2016,49000
+Opel,Corsa,2013,White Ivory ,Petrol ,manuel,1400,62000,private ,24/09/2016,59000
+Hyundai,Accent,2013,Black Metallic ,Petrol ,Automatic,1400,62000,private ,26/09/2016,66000
+Ford,Focus,2012,Blue ,Petrol ,manuel,1600,62500,private ,27/09/2016,73500
+Hyundai,Tucson,2013,Silver ,Diesel ,Automatic,1995,63000,private ,24/09/2016,110000
+Hyundai,Tucson,2013,Residential ,Diesel ,Automatic,2000,63000,private ,26/09/2016,95500
+Chevrolet,Malibu,2008,عدة الوان ,Petrol ,Automatic,3500,64000,private ,21/09/2016,75000
+BMW,325,2006,Black ,Petrol ,Automatic,2500,65000,private ,21/09/2016,110000
+Hyundai,i10,2012,Silver ,Petrol ,manuel,1100,65000,private ,24/09/2016,45000
+Hyundai,Tucson,2013,Silver ,Diesel ,Automatic,2000,65000,private ,01/10/2016,115000
+Mercedes,C220,2011,White Ivory ,Diesel ,Automatic,2200,68000,private ,25/09/2016,148000
+Ford,Fiesta,2013,Silver ,Petrol ,manuel,1250,68500,private ,27/09/2016,54000
+Kia,Pride,2007,Black ,Petrol ,Automatic,1600,69000,private ,25/09/2016,47500
+VW,Polo,2008,Ferrani ,Petrol ,manuel,1400,69000,private ,26/09/2016,52000
+VW,Polo,2012,White ,Petrol ,manuel,1400,70000,private ,20/09/2016,75000
+Ford,Fiesta,2012,Residential ,Petrol ,Automatic,1400,70000,private ,20/09/2016,57000
+Skoda,Octavia,2013,Brown ,Diesel ,manuel,1600,70000,private ,20/09/2016,98000
+Kia,Soul,2013,Ivory ,Diesel ,Automatic,1600,70000,private ,20/09/2016,70000
+Kia,Soul,2013,Black Metallic ,Diesel ,Automatic,1600,70000,private ,21/09/2016,77000
+Opel,Astra,2003,Silver ,Diesel ,manuel,1900,70000,private ,21/09/2016,45000
+Ford,Fiesta,2012,Blue Cyan ,Petrol ,manuel,1250,70000,private ,25/09/2016,50000
+Kia,Sportage,2013,Residential ,Diesel ,Automatic,2000,70000,private ,25/09/2016,112000
+Honda,Civic,2008,Gray ,Petrol ,Automatic,1800,70000,private ,25/09/2016,56000
+Kia,Optima,2012,Black ,Petrol ,Automatic,2000,70000,private ,26/09/2016,92000
+Peugeot,301,2013,grey R ,Diesel ,manuel,1600,70000,private ,26/09/2016,75000
+VW,Touran,2011,Ferrani ,Petrol ,Automatic,1600,70000,private ,27/09/2016,100000
+Kia,Sayed,2013,بترولي ,Petrol ,Automatic,1600,71000,private ,24/09/2016,86000
+Peugeot,Partner,2014,White ,Diesel ,manuel,1600,71000,private ,26/09/2016,92000
+Ford,Focus,2013,White ,Petrol ,Automatic,1600,72000,private ,21/09/2016,68000
+Kia,Optima,2013,Black ,Petrol ,Automatic,2000,72000,private ,24/09/2016,93000
+Hyundai,Accent,2012,grey R ,Diesel ,Automatic,1600,73000,private ,21/09/2016,73000
+VW,Transporter,2013,White ,Diesel ,manuel,2000,73000,private ,22/09/2016,155000
+BMW,318,2002,Red ,Petrol ,Automatic,2000,75000,private ,20/09/2016,70500
+Mercedes,Sprinter,1998,White ,Diesel ,manuel,3000,75000,private ,21/09/2016,53000
+Isuzu,Trooper,2000,White ,Diesel ,manuel,4800,75000,Commercial ,21/09/2016,55000
+Mercedes,814,1999,White ,Diesel ,manuel,4800,75000,Commercial ,21/09/2016,40000
+Nissan,Tiida,2012,Black Metallic ,Petrol ,Automatic,1600,75000,private ,21/09/2016,75000
+Hyundai,Avante,2005,grey R ,Petrol ,Automatic,1600,75000,private ,22/09/2016,37000
+Audi,80,1982,White ,Petrol ,manuel,1600,75000,private ,24/09/2016,18000
+Ford,Ford Turnzi,2006,White Ivory ,Diesel ,manuel,2500,75000,private ,24/09/2016,950000
+Skoda,Octavia,2008,Black ,Diesel ,Automatic,1900,75000,private ,24/09/2016,85000
+Daewoo,Matiz,2001,White ,Petrol ,manuel,900,75000,private ,24/09/2016,16000
+Hyundai,Verna,2008,Black Metallic ,Petrol ,Automatic,1400,75000,private ,25/09/2016,49000
+VW,Touran,2011,Ferrani ,Diesel ,Automatic,1600,75000,private ,26/09/2016,900000
+Opel,Vectra,1997,Black Metallic ,Petrol ,manuel,2000,75501,private ,21/09/2016,27000
+Peugeot,508,2011,Black Metallic ,Petrol ,Automatic,1600,76000,private ,22/09/2016,85000
+Peugeot,405,1991,Green ,Petrol ,manuel,1600,76576,private ,20/09/2016,22000
+Hyundai,Tucson,2009,Black ,Diesel ,Automatic,2000,77000,private ,20/09/2016,82000
+Hyundai,Santaver,2009,Silver ,Diesel ,Automatic,2200,77000,private ,24/09/2016,88000
+Ford,Focus,2012,Gray ,Petrol ,Automatic,1600,78000,private ,25/09/2016,67000
+Ford,Focus,2013,Silver ,Petrol ,Automatic,1600,78500,private ,24/09/2016,730000
+Kia,Forte,2008,Black Metallic ,Petrol ,Automatic,1600,79000,private ,21/09/2016,58000
+Ford,Focus,2011,Blue Cyan ,Petrol ,Automatic,1600,80000,private ,20/09/2016,55000
+Volkswagen,GTI,2012,Black Metallic ,Petrol ,Automatic,2000,80000,private ,20/09/2016,105000
+Hyundai,Tucson,2007,Residential ,Diesel ,Automatic,2000,80000,private ,21/09/2016,65000
+Hyundai,Velostr,2011,White ,Petrol ,Automatic,1600,80000,private ,21/09/2016,71000
+Skoda,Rapid,2013,White ,Diesel ,manuel,1600,80000,private ,21/09/2016,88000
+Skoda,Yeti,2013,Black Metallic ,Diesel ,Automatic,2000,80000,private ,24/09/2016,135000
+VW,LT,2000,White Ivory ,Diesel ,manuel,2800,80000,Commercial ,24/09/2016,45000
+Skoda,Octavia,2013,Silver ,Diesel ,manuel,1600,80000,private ,24/09/2016,107000
+Hyundai,i30,2012,Silver ,Petrol ,Automatic,1600,80000,private ,25/09/2016,67000
+Hyundai,Accent,2013,White ,Petrol ,Automatic,1400,80000,private ,25/09/2016,66000
+Skoda,Octavia,2013,grey R ,Diesel ,manuel,1600,80000,private ,27/09/2016,100000
+Skoda,Octavia,2012,grey R ,Diesel ,manuel,1600,82000,private ,20/09/2016,85000
+Kia,Pride,2007,Silver ,Petrol ,Automatic,1600,83000,private ,24/09/2016,50000
+Kia,Picanto,2011,Residential ,Petrol ,manuel,1250,83000,private ,24/09/2016,44000
+Volkswagen,Jetta,2012,Gray ,Diesel ,Automatic,1600,83000,private ,26/09/2016,95000
+Opel,Astra,2012,Silver ,Petrol ,manuel,1400,84000,private ,22/09/2016,65000
+Skoda,Octavia,2013,White Ivory ,Diesel ,manuel,1600,85000,private ,21/09/2016,95000
+Opel,Corsa,2015,Ferrani ,Petrol ,manuel,1400,85000,private ,21/09/2016,62000
+Hyundai,Santaver,2013,Residential ,Diesel ,Automatic,2200,85000,private ,22/09/2016,137000
+Hyundai,i30,2013,White Ivory ,Petrol ,Automatic,1600,85000,private ,24/09/2016,85000
+Volkswagen,GTI,2012,White ,Petrol ,Automatic,2000,85000,private ,25/09/2016,9999
+Fiat,Panda,2013,Black ,Petrol ,manuel,1250,86000,private ,21/09/2016,60000
+Opel,Astra,2012,Ferrani ,Petrol ,manuel,1600,88000,private ,20/09/2016,68000
+Hyundai,Accent,2011,Ferrani ,Petrol ,Automatic,1400,88000,private ,20/09/2016,63000
+Subaru,ant,1983,White ,Petrol ,manuel,1600,88899,private ,25/09/2016,6500
+Volkswagen,Polo Match 2013,2013,Silver ,Petrol ,Automatic,1400,89000,private ,20/09/2016,85500
+Peugeot,307,2008,White ,Petrol ,Automatic,1600,89000,private ,24/09/2016,43000
+VW,Touran,2013,White Ivory ,Diesel ,Automatic,1600,90000,private ,20/09/2016,100000
+VW,Touran,2013,Black Metallic ,Diesel ,Automatic,1600,90000,private ,20/09/2016,110000
+Skoda,Octavia,2012,Ferrani ,Diesel ,manuel,1600,90000,private ,21/09/2016,93000
+Kia,Forte,2009,Black ,Petrol ,Automatic,1600,90000,private ,21/09/2016,68000
+Kia,Cerato,2007,White ,Petrol ,Automatic,1600,90000,private ,21/09/2016,50000
+Kia,Pride,2007,Silver ,Petrol ,Automatic,1600,90000,private ,21/09/2016,44000
+Ford,Fiesta,2012,Blue Cyan ,Petrol ,manuel,1250,90000,private ,22/09/2016,51000
+Skoda,Octavia,2002,White ,Diesel ,manuel,1900,90000,Taxi ,25/09/2016,37000
+Skoda,Octavia,2011,Blue ,Diesel ,manuel,1600,90000,private ,26/09/2016,90000
+Toyota,Corolla,1999,Purple ,Petrol ,Automatic,1600,90000,private ,26/09/2016,45000
+Opel,Astra,2012,Residential ,Petrol ,manuel,1600,91000,private ,22/09/2016,59000
+Skoda,Octavia,2014,Black Metallic ,Diesel ,manuel,1600,91000,private ,24/09/2016,99000
+Citroen,Berlingo,2013,Black Metallic ,Diesel ,manuel,1600,93000,private ,27/09/2016,80000
+Kia,Pride,2007,Silver ,Petrol ,Automatic,1400,94000,private ,20/09/2016,46000
+Kia,Pride,2007,Silver ,Petrol ,Automatic,1400,94000,private ,22/09/2016,46000
+BMW,520,2013,Ferrani ,Petrol ,Automatic,2000,94000,private ,25/09/2016,220000
+Volkswagen,Tiguan,2013,White ,Petrol ,Automatic,2000,96000,private ,21/09/2016,130000
+Mazda,3,2008,Golden ,Petrol ,Automatic,2000,97000,private ,26/09/2016,73000
+Skoda,Octavia,2012,Gray ,Diesel ,manuel,1600,98000,private ,26/09/2016,96000
+VW,Polo,2008,Gray ,Petrol ,manuel,1400,99654,private ,25/09/2016,53000
+Volkswagen,Passat,2010,Black Metallic ,Diesel ,Automatic,1995,100000,private ,20/09/2016,95000
+Hyundai,Tucson,2013,Gray ,Diesel ,Automatic,2000,100000,private ,20/09/2016,105000
+Kia,Rio,2010,White ,Diesel ,manuel,1500,100000,Taxi ,21/09/2016,45000
+Skoda,Octavia,2013,White ,Diesel ,manuel,1600,100000,private ,22/09/2016,96000
+Hyundai,Tucson,2008,Silver ,Diesel ,Automatic,2000,100000,private ,24/09/2016,60000
+Skoda,Roomster,2012,Black Metallic ,Diesel ,manuel,1600,100000,private ,24/09/2016,73000
+Mitsubishi,Pajero,2009,White ,Diesel ,Automatic,3200,100000,private ,24/09/2016,160000
+Hyundai,Tucson,2008,Silver ,Diesel ,Automatic,2000,100000,private ,25/09/2016,68000
+Skoda,Octavia,2012,Black Metallic ,Diesel ,manuel,1600,100000,private ,25/09/2016,85000
+Hyundai,Tucson,2008,Oily Color ,Diesel ,Automatic,2000,100000,private ,26/09/2016,68000
+Kia,Forte,2008,Gray ,Petrol ,Automatic,1600,100000,private ,26/09/2016,58500
+BMW,318,1993,White ,Petrol ,manuel,1600,100769,private ,25/09/2016,19200
+Hyundai,i10,2008,Silver ,Petrol ,manuel,1300,101800,private ,22/09/2016,35000
+Skoda,Superb,2014,Russet ,Diesel ,Automatic,2000,102000,private ,27/09/2016,152000
+BMW,520,2014,White Ivory ,Petrol ,Automatic,2000,103000,private ,20/09/2016,220000
+Skoda,Octavia,2011,Gray ,Diesel ,manuel,1600,103000,private ,22/09/2016,84000
+Skoda,Fabia,2008,Russet ,Petrol ,manuel,1400,104000,private ,22/09/2016,51500
+Hyundai,Avante,2006,Silver ,Petrol ,Automatic,1600,105000,private ,21/09/2016,46000
+Hyundai,Tucson,2011,Ferrani ,Diesel ,Automatic,2000,105000,private ,21/09/2016,105000
+Kia,Pride,2007,Silver ,Petrol ,Automatic,1600,106000,private ,21/09/2016,52000
+Kia,Forte,2009,Silver ,Petrol ,Automatic,1600,106000,private ,22/09/2016,66000
+Chevrolet,Optra,2007,White ,Petrol ,manuel,1600,107000,private ,21/09/2016,40000
+Kia,Forte,2008,Silver ,Petrol ,Automatic,1600,110000,private ,22/09/2016,58000
+Hyundai,i30,2008,Black ,Petrol ,manuel,1600,110000,private ,24/09/2016,62000
+VW,Caddy,2013,Ferrani ,Diesel ,Automatic,1600,111000,private ,02/10/2016,108999
+Peugeot,305,1983,White ,Petrol ,manuel,1300,111111,private ,24/09/2016,4200
+Opel,Kadett,1983,White ,Petrol ,manuel,1295,111111,private ,25/09/2016,6500
+Peugeot,207,2008,Ferrani ,Petrol ,Automatic,1600,114000,private ,27/09/2016,42000
+VW,CC,2011,Black Metallic ,Petrol ,Automatic,1800,115000,private ,24/09/2016,89000
+VW,Golf,2008,Residential ,Petrol ,manuel,1600,115000,private ,27/09/2016,75000
+Kia,Forte,2009,Residential ,Petrol ,Automatic,1600,116000,private ,21/09/2016,60000
+Hyundai,Accent,2009,White ,Petrol ,Automatic,1400,117000,private ,25/09/2016,45000
+Peugeot,207,2008,Blue ,Petrol ,Automatic,1600,118000,private ,20/09/2016,43500
+Mazda,3,2009,Residential ,Petrol ,Automatic,2000,119000,private ,21/09/2016,74000
+BMW,i120,2007,Red ,Petrol ,Automatic,2000,120000,private ,20/09/2016,75000
+Jeep,sofa,1994,Oily Color ,Petrol ,manuel,4200,120000,private ,21/09/2016,150000
+Kia,Cerato,2007,Black Metallic ,Petrol ,Automatic,1600,120000,private ,21/09/2016,54000
+Ford,Focus,2009,Blue ,Petrol ,manuel,1600,120000,private ,22/09/2016,50000
+VW,Golf,2008,Silver ,Petrol ,manuel,1600,120000,private ,22/09/2016,72000
+Peugeot,307,2005,Black ,Petrol ,Automatic,2000,120000,private ,22/09/2016,42000
+Mitsubishi,Pajero,2008,بترولي ,Diesel ,Automatic,3200,120000,private ,25/09/2016,145000
+Mercedes,ML350,2009,Silver ,Petrol ,Automatic,3500,120000,private ,25/09/2016,170000
+Skoda,Octavia,2013,Brown ,Diesel ,Automatic,2000,120000,private ,24/09/2016,105000
+Mazda,3,2009,Gray ,Petrol ,Automatic,1600,120000,private ,26/09/2016,40000
+Skoda,Octavia,2012,White ,Diesel ,manuel,1600,120000,private ,26/09/2016,72000
+Hyundai,Click,2008,White ,Petrol ,Automatic,1400,120000,private ,27/09/2016,39000
+Chevrolet,Optra,2007,Residential ,Petrol ,manuel,1600,120000,private ,27/09/2016,40000
+Audi,A80,1989,grey R ,Petrol ,manuel,1600,120000,private ,27/09/2016,20000
+Hyundai,Accent,2013,White ,Diesel ,Automatic,1600,121000,private ,25/09/2016,75000
+Hyundai,Accent,2011,Gray ,Diesel ,manuel,1600,121112,private ,21/09/2016,62000
+Kia,Sorento,2007,Black ,Diesel ,Automatic,2500,122000,private ,20/09/2016,64000
+VW,Kraval,2013,Purple ,Diesel ,manuel,2000,122000,Taxi ,25/09/2016,123000
+Skoda,Octavia,2009,White ,Diesel ,manuel,1900,123458,Taxi ,24/09/2016,64000
+Skoda,Octavia,2011,Blue ,Diesel ,manuel,1600,124000,private ,24/09/2016,90000
+Skoda,Octavia,2015,Yellow ,Diesel ,manuel,1600,125000,Taxi ,20/09/2016,80000
+Skoda,Roomster,2013,White ,Diesel ,manuel,1600,125000,private ,20/09/2016,69000
+Citroen,C4,2012,Black Metallic ,Diesel ,Automatic,1600,125000,private ,21/09/2016,77000
+Skoda,Octavia,2008,Ferrani ,Diesel ,manuel,1900,125000,Taxi ,24/09/2016,58000
+Skoda,Octavia,2013,Blue ,Diesel ,manuel,1600,125000,private ,26/09/2016,90000
+Opel,Astra,2011,Ferrani ,Petrol ,manuel,1600,126000,private ,22/09/2016,70000
+BMW,520,2000,Silver ,Petrol ,Automatic,2000,127000,private ,25/09/2016,65000
+VW,Golf,2003,Silver ,Petrol ,Automatic,1600,128863,private ,28/09/2016,48000
+Skoda,Octavia,2013,Residential ,Diesel ,manuel,1600,130000,private ,20/09/2016,98000
+Peugeot,406,1999,Silver ,Petrol ,Automatic,1800,130000,private ,21/09/2016,22000
+Volkswagen,Passat,2003,Green ,Diesel ,Automatic,1900,130000,private ,21/09/2016,52000
+Skoda,Octavia,2012,Blue Cyan ,Diesel ,manuel,1600,130000,private ,22/09/2016,95000
+Skoda,Octavia,2011,Blue ,Diesel ,manuel,1600,130000,private ,24/09/2016,85000
+Skoda,Roomster,2010,White Ivory ,Diesel ,manuel,1600,130000,private ,25/09/2016,66000
+Hyundai,Tucson,2008,Silver ,Diesel ,Automatic,2000,130000,private ,27/09/2016,65000
+Hyundai,Tucson,2008,Ferrani ,Diesel ,Automatic,2000,130000,private ,26/09/2016,69000
+Volkswagen,Jetta,2012,Blue ,Diesel ,manuel,1600,130000,private ,27/09/2016,100000
+VW,Golf,2008,Black ,Petrol ,manuel,1600,130005,private ,22/09/2016,74000
+Peugeot,307,2007,Silver ,Petrol ,Automatic,1600,132000,private ,22/09/2016,70000
+VW,Golf Plus,2003,Black ,Petrol ,manuel,1600,133000,private ,26/09/2016,56000
+Volkswagen,Passat,1999,Blue ,Petrol ,manuel,1600,133000,private ,26/09/2016,39500
+Chevrolet,Cruze,2009,Red ,Petrol ,Automatic,1600,133800,private ,20/09/2016,23500
+Opel,Ascona,1983,Golden ,Petrol ,manuel,1300,136743,private ,21/09/2016,19000
+Peugeot,307,2007,Golden ,Petrol ,Automatic,2000,138000,private ,22/09/2016,37000
+Opel,Corsa,2003,Gray ,Petrol ,manuel,1200,140000,private ,22/09/2016,37500
+Hyundai,Santaver,2007,Black ,Diesel ,Automatic,2200,140000,private ,25/09/2016,82000
+VW,Transporter,2011,Russet ,Diesel ,manuel,2000,140000,private ,26/09/2016,130000
+Kia,Pride,2007,Residential ,Petrol ,Automatic,1400,140000,private ,26/09/2016,42500
+Skoda,Yeti,2012,Brown ,Diesel ,Automatic,2000,142000,private ,21/09/2016,140000
+Daewoo,Matiz,2002,Green ,Petrol ,manuel,800,143212,private ,22/09/2016,21500
+Daewoo,Matiz,2001,Green ,Petrol ,manuel,800,143212,private ,25/09/2016,21500
+VW,Golf,2010,Gray ,Petrol ,manuel,1400,143300,private ,25/09/2016,87500
+Audi,Q5,2009,Ferrani ,Petrol ,Automatic,2000,144000,private ,27/09/2016,137000
+Volkswagen,Passat,2009,Silver ,Petrol ,Automatic,1800,145000,private ,25/09/2016,73500
+Kia,Rio,2004,White Ivory ,Petrol ,Automatic,1400,145000,private ,21/09/2016,35000
+Volkswagen,GTI,2008,Black ,Petrol ,Automatic,2000,145000,private ,25/09/2016,85000
+Opel,Astra,2006,Silver ,Petrol ,manuel,1600,145000,private ,25/09/2016,46000
+Opel,Corsa,2008,Gray ,Petrol ,manuel,1400,145000,private ,26/09/2016,48000
+Volkswagen,Passat,2009,Silver ,Petrol ,Automatic,1800,145000,private ,27/09/2016,71500
+BMW,E90,2007,Black Metallic ,Petrol ,Automatic,3000,150000,private ,20/09/2016,125000
+Ford,Fiesta,2011,grey R ,Petrol ,Automatic,1400,150000,Rental ,22/09/2016,48000
+VW,Caddy,2013,Residential ,Diesel ,Automatic,1600,150000,private ,22/09/2016,110000
+Skoda,Octavia,2013,grey R ,Diesel ,Automatic,1600,150000,private ,22/09/2016,105000
+VW,Golf,2006,Black Metallic ,Petrol ,manuel,1600,150000,private ,24/09/2016,65000
+Audi,Q5,2013,White ,Diesel ,manuel,2000,150000,private ,24/09/2016,210000
+Honda,Civic,2007,White Ivory ,Petrol ,Automatic,1800,150000,private ,25/09/2016,58000
+Opel,Astra,2005,Silver ,Petrol ,manuel,1800,150000,private ,26/09/2016,54000
+Volkswagen,Passat,1999,Green ,Petrol ,Automatic,1800,150000,private ,26/09/2016,38000
+VW,Golf,2005,Blue ,Petrol ,Automatic,1600,154000,private ,21/09/2016,60000
+Hyundai,Verna,2008,Silver ,Petrol ,Automatic,1600,155660,private ,20/09/2016,49000
+Peugeot,406,1999,White Ivory ,Petrol ,manuel,1800,157000,private ,21/09/2016,28500
+Peugeot,307,2007,Ferrani ,Petrol ,Automatic,2000,159000,private ,26/09/2016,41000
+Hyundai,Santaver,2006,grey R ,Diesel ,Automatic,2200,160000,private ,20/09/2016,73000
+Hyundai,Tucson,2010,Silver ,Diesel ,Automatic,2000,160000,private ,21/09/2016,83999
+Fiat,Vrino,2008,Silver ,Diesel ,Automatic,1300,160000,private ,21/09/2016,46000
+Volkswagen,Passat,1995,White ,Petrol ,manuel,1800,160000,training ,22/09/2016,24000
+Hyundai,Santaver,2002,Residential ,Diesel ,manuel,1991,160000,private ,26/09/2016,50000
+BMW,316,2003,Oily Color ,Petrol ,manuel,1600,162000,private ,25/09/2016,80000
+Citroen,C4 Picasso,2014,Silver ,Diesel ,manuel,1600,162000,private ,25/09/2016,125000
+Skoda,Octavia,2013,Residential ,Diesel ,manuel,1600,163000,private ,22/09/2016,92000
+BMW,316,1979,Ivory ,Petrol ,manuel,1650,164000,Taxi ,24/09/2016,15000
+Hyundai,Tucson,2007,grey R ,Diesel ,Automatic,1990,165000,private ,21/09/2016,62500
+Chevrolet,Aveo,2010,Red ,Petrol ,Automatic,1400,165000,Rental ,24/09/2016,38000
+Volkswagen,Passat,2006,Blue ,Petrol ,Automatic,2000,168000,private ,20/09/2016,68000
+Audi,A80,1989,Oily Color ,Petrol ,manuel,1600,170000,private ,21/09/2016,18000
+Volkswagen,Jetta,2009,Black ,Diesel ,manuel,1900,170000,private ,22/09/2016,70000
+VW,Touran,2009,Ferrani ,Diesel ,manuel,1900,170000,private ,24/09/2016,860000
+Mercedes,SL350,2004,Black ,Petrol ,Automatic,3700,170000,private ,25/09/2016,140000
+Mazda,323,2000,Golden ,Petrol ,Automatic,1600,173000,private ,20/09/2016,45000
+BMW,x3,2007,Silver ,Diesel ,Automatic,2950,175000,private ,21/09/2016,130000
+BMW,330,2004,Gray ,Petrol ,Automatic,3000,175000,private ,22/09/2016,136000
+Kia,Cerato,2006,grey R ,Petrol ,Automatic,1600,175000,private ,24/09/2016,50000
+Volkswagen,Passat,2008,Black Metallic ,Diesel ,Automatic,2000,180000,private ,22/09/2016,74000
+Fiat,Uno,1986,White ,Petrol ,manuel,1000,180000,private ,22/09/2016,16000
+VW,Kraval,2012,Orange ,Diesel ,manuel,1968,180000,Taxi ,25/09/2016,65000
+Opel,Astra,2006,Ferrani ,Petrol ,manuel,1600,180000,private ,25/09/2016,48000
+VW,Polo,2008,Silver ,Petrol ,manuel,1400,180000,private ,24/09/2016,50000
+Volkswagen,Passat,2008,Black ,Diesel ,Automatic,2000,180000,private ,25/09/2016,75000
+Honda,Civic,2006,White ,Petrol ,Automatic,1800,180000,private ,25/09/2016,58000
+Skoda,Octavia,2013,Black Metallic ,Diesel ,manuel,1600,180000,private ,27/09/2016,115000
+Fiat,Panda,2016,grey R ,Petrol ,manuel,1250,185000,private ,24/09/2016,57000
+Hyundai,i30,2008,grey R ,Petrol ,Automatic,1600,190000,private ,24/09/2016,58000
+Skoda,eyelash,2010,Blue ,Diesel ,manuel,1900,190000,private ,24/09/2016,88000
+Skoda,eyelash,2010,Blue ,Diesel ,manuel,1900,190000,private ,24/09/2016,88000
+Skoda,Octavia,2013,Ferrani ,Diesel ,manuel,1600,190000,private ,25/09/2016,80000
+Skoda,eyelash,2010,Blue ,Diesel ,manuel,1900,190000,private ,27/09/2016,90000
+Opel,Zafira,2004,Silver ,Diesel ,manuel,1900,190000,private ,27/09/2016,50000
+Hyundai,Tucson,2006,Oily Color ,Diesel ,Automatic,1995,198000,private ,21/09/2016,56000
+Peugeot,Partner,2008,White ,Diesel ,manuel,1600,200000,private ,20/09/2016,55000
+Hyundai,Gates,2008,Residential ,Petrol ,manuel,1004,200000,private ,21/09/2016,30000
+Motorcycle,Sazuki GS500,2000,Blue ,Petrol ,manuel,500,200000,private ,21/09/2016,3300
+VW,Caddy,2013,Residential ,Diesel ,manuel,1600,200000,private ,22/09/2016,98000
+Opel,6 +1,2003,White ,Diesel ,manuel,1900,200000,private ,24/09/2016,42000
+Kia,Rio,2008,Blue Cyan ,Petrol ,Automatic,1400,200000,private ,24/09/2016,43000
+Fiat,doblo,2010,Golden ,Diesel ,manuel,2000,200000,private ,25/09/2016,70000
+Skoda,Octavia,2008,Russet ,Diesel ,manuel,1900,200000,private ,24/09/2016,77000
+Skoda,Octavia,2009,grey R ,Diesel ,manuel,1900,200000,private ,24/09/2016,88000
+VW,Golf,2005,Blue Cyan ,Petrol ,Automatic,1600,200000,private ,25/09/2016,59500
+Opel,Zafira,2003,White ,Diesel ,manuel,1900,200000,private ,26/09/2016,42000
+Renault,R9,1983,Ivory ,Petrol ,manuel,1300,200000,private ,26/09/2016,8000
+Mazda,323,1992,Red ,Petrol ,manuel,1600,202758,private ,22/09/2016,22000
+Fiat,Punto,1995,Residential ,Petrol ,manuel,1100,202866,private ,24/09/2016,25000
+Opel,Vectra,1998,Residential ,Petrol ,Automatic,2000,205000,private ,26/09/2016,25000
+Audi,Q7,2007,Black ,Petrol ,Automatic,4500,208000,private ,24/09/2016,180000
+Peugeot,Partner,2008,White ,Diesel ,manuel,1600,220000,private ,20/09/2016,57000
+BMW,525,2006,Ferrani ,Petrol ,Automatic,2500,220000,private ,24/09/2016,119000
+VW,Touran,2009,Residential ,Diesel ,Automatic,1900,225000,private ,27/09/2016,85000
+Chevrolet,Optra,2008,Golden ,Petrol ,Automatic,1600,229000,Rental ,22/09/2016,35000
+Chevrolet,Optra,2008,Golden ,Petrol ,Automatic,1600,229000,Rental ,22/09/2016,35000
+Hyundai,i20,2010,Blue Cyan ,Petrol ,manuel,1250,238000,Rental ,26/09/2016,35000
+VW,Touran,2009,Residential ,Diesel ,Automatic,1900,240000,private ,24/09/2016,88000
+Fiat,doblo,2010,Ferrani ,Diesel ,manuel,1900,240000,Commercial ,24/09/2016,65000
+Volkswagen,2002,2002,White ,Petrol ,Automatic,2000,245000,private ,24/09/2016,57000
+GMC,Savannah,1994,Green ,Petrol ,Automatic,3000,245687,Commercial ,25/09/2016,30000
+Mercedes,C220,2008,Ferrani ,Diesel ,Automatic,2200,250000,private ,25/09/2016,125000
+Subaru,Impreza,1997,Red ,Petrol ,manuel,1600,255282,private ,25/09/2016,35000
+Volkswagen,Passat,2002,Blue ,Diesel ,Automatic,2000,260000,private ,25/09/2016,44000
+Mitsubishi,Lancer,1994,White ,Petrol ,manuel,1600,263000,private ,25/09/2016,37000
+VW,Bora,2003,Silver ,Diesel ,manuel,1900,286000,Taxi ,20/09/2016,46000
+Mitsubishi,L200,2008,Black ,Diesel ,Automatic,2500,290000,private ,24/09/2016,140000
+Toyota,Land Cruiser,2005,Golden ,Diesel ,Automatic,3000,290000,private ,26/09/2016,170000
+Opel,Ascona,1986,White Ivory ,Petrol ,manuel,1300,293678,private ,21/09/2016,16300
+Kia,Optima,2013,Black ,Petrol ,Automatic,2000,320000,private ,22/09/2016,97000
+Skoda,Octavia,2008,White Ivory ,Diesel ,manuel,1900,320000,Taxi ,24/09/2016,60000
+Kia,Rio,2007,White ,Diesel ,manuel,1500,321000,Taxi ,26/09/2016,45000
+Opel,Corsa,1999,Brown ,Petrol ,manuel,1400,325000,Rental ,27/09/2016,24000
+Mercedes,416,2006,White ,Diesel ,manuel,2500,330000,Commercial ,24/09/2016,88000
+Peugeot,Partner,2007,Blue ,Diesel ,manuel,1600,335000,private ,24/09/2016,54000
+Mercedes,220,2005,Gray ,Diesel ,Automatic,2200,340000,private ,21/09/2016,77000
+Mercedes,220,2005,Gray ,Diesel ,Automatic,2200,340000,private ,24/09/2016,77000
+Subaru,Impreza,2001,Blue ,Petrol ,manuel,1600,350000,private ,20/09/2016,20000
+Fiat,Punto,1996,White ,Petrol ,manuel,1600,376799,private ,26/09/2016,24000
+Fiat,Punto,1996,White ,Petrol ,manuel,1600,383833,private ,26/09/2016,24000
+Duff,55,2002,White ,Diesel ,manuel,250,400000,Commercial ,26/09/2016,160000
+Kia,Sayed,2010,White ,Diesel ,manuel,1600,410000,Taxi ,26/09/2016,52000
+Skoda,Felicia,1996,Blue ,Petrol ,manuel,1400,450000,private ,22/09/2016,18000
+Skoda,Octavia,2009,White ,Diesel ,manuel,1900,450000,Taxi ,24/09/2016,68000
+Skoda,eyelash 2009,2009,White ,Diesel ,manuel,1900,450000,Taxi ,24/09/2016,68000
+Skoda,Octavia,2010,Ferrani ,Diesel ,manuel,1900,450000,Taxi ,26/09/2016,69000
+Audi,A5,2011,Silver ,Petrol ,Automatic,2000,460000,private ,25/09/2016,180000
+DAF,cf 6x4 430 flipflop,2004,White ,Diesel ,manuel,430,476000,private ,21/09/2016,220000
+VW,Golf,2008,White Ivory ,Diesel ,manuel,1900,500000,Taxi ,22/09/2016,47000
+Skoda,Octavia,2010,White ,Diesel ,manuel,1900,500000,Taxi ,25/09/2016,63000
+VW,Bora,2005,White ,Diesel ,manuel,1900,500000,Taxi ,25/09/2016,48000
+Mercedes,412,2000,White Ivory ,Diesel ,manuel,3500,528432,Commercial ,24/09/2016,92000
+Opel,Zafira,2003,Blue ,Diesel ,manuel,1990,546356,private ,24/09/2016,45500
+Skoda,Octavia,2004,Blue ,Diesel ,manuel,1900,550000,Taxi ,22/09/2016,46000
+VW,Polo,1999,White Ivory ,Diesel ,manuel,1900,567993,Taxi ,26/09/2016,27000
+VW,Kraval,2009,Orange ,Diesel ,manuel,2500,600000,Taxi ,21/09/2016,70000
+Mercedes,416,2007,White ,Diesel ,manuel,2500,600000,Taxi ,21/09/2016,75000
+Kia,Cerato,2013,Brown ,Petrol ,Automatic,1600,600000,private ,24/09/2016,93500
+Volvo,Fl6,2000,White Ivory ,Diesel ,manuel,2000,650000,private ,24/09/2016,100000
+Skoda,Octavia,2004,Blue Cyan ,Diesel ,manuel,1900,650647,Taxi ,27/09/2016,44000
+Hyundai,Tucson,2013,Residential ,Diesel ,Automatic,2000,660000,private ,21/09/2016,99000
+VW,Bora,2004,White ,Diesel ,manuel,1900,678905,Taxi ,24/09/2016,43000
+Mercedes,E270,2001,Blue ,Diesel ,Automatic,2700,750000,Taxi ,26/09/2016,52000
+Subaru,ant,1982,Blue ,Petrol ,manuel,1600,850000,private ,25/09/2016,10500
+Peugeot,307,2003,grey R ,Petrol ,Automatic,1600,1000000,private ,22/09/2016,5000
+Seat,Ibiza,2003,White ,Petrol ,manuel,1600,107098,private ,26/09/2016,3500
+Opel,Kadett,1980,Golden ,Petrol ,manuel,1200,111789,private ,26/09/2016,11500
+Kia,Sayed,2011,White Ivory ,Diesel ,manuel,1589,1950000,Taxi ,25/09/2016,60000
+Audi,A4,2006,Blue Cyan ,Petrol ,Automatic,1800,187000,private ,24/09/2016,65000
+Kia,Soul,2015,Blue ,Diesel ,Automatic,1600,19000,private ,24/09/2016,98500
+VW,Polo,2012,Red ,Petrol ,manuel,1400,100000,private ,21/09/2016,67000
+Volkswagen,Passat,2001,Blue ,Petrol ,manuel,1600,116000,private ,25/09/2016,42000
+Opel,Astra,2008,Gray ,Petrol ,Automatic,1800,118000,private ,21/09/2016,58000
+Kia,Rio,2005,White ,Petrol ,Automatic,1400,120000,private ,21/09/2016,38000
+Opel,Vectra,1997,Green ,Petrol ,Automatic,1800,123467,private ,24/09/2016,20000
+Mercedes,C200,2011,Black ,Petrol ,Automatic,1800,125000,private ,25/09/2016,155000
+Skoda,Octavia,2012,Silver ,Diesel ,manuel,1600,130000,private ,25/09/2016,87000
+Peugeot,307,2008,Golden ,Petrol ,Automatic,1600,134000,private ,25/09/2016,43000
+Opel,Corsa,2007,Ferrani ,Petrol ,manuel,1400,140000,private ,24/09/2016,43500
+VW,Polo,2006,Silver ,Petrol ,Automatic,1400,140000,private ,26/09/2016,52000
+Peugeot,307,2007,Ferrani ,Petrol ,Automatic,2000,159000,private ,24/09/2016,42000
+Skoda,Octavia,2014,Blue Cyan ,Diesel ,Automatic,2000,19000,private ,22/09/2016,125000
+Citroen,C-Elysee,2014,Blue ,Petrol ,manuel,1200,20000,private ,25/09/2016,75000
+VW,Kravcr,2010,White ,Diesel ,manuel,2400,204500,Commercial ,22/09/2016,90000
+VW,Kravcr,2010,White ,Petrol ,manuel,2200,204500,Commercial ,25/09/2016,90000
+Ford,Fiesta,2000,Gray ,Petrol ,manuel,1300,220000,private ,20/09/2016,28200
+Mitsubishi,Lancer,1992,White Ivory ,Petrol ,Automatic,1500,220000,Taxi ,25/09/2016,16000
+Skoda,Octavia,2007,Black ,Diesel ,Automatic,2000,260000,private ,26/09/2016,79000
+Skoda,Rapid,2014,Black ,Petrol ,manuel,1200,27000,private ,24/09/2016,85000
+VW,CC,2013,Golden ,Petrol ,Automatic,1800,30000,private ,26/09/2016,140000
+Skoda,Rapid,2014,Blue ,Diesel ,manuel,1600,37260,private ,25/09/2016,85000
+Ford,Focus,2013,Gray ,Petrol ,Automatic,1600,40000,private ,21/09/2016,75000
+Peugeot,107,2013,Red ,Petrol ,manuel,1000,44000,private ,24/09/2016,49000
+Skoda,Fabia,2014,Blue ,Petrol ,manuel,1200,49000,private ,20/09/2016,62000
+Isuzu,3900,1996,White ,Diesel ,manuel,3900,500000,Commercial ,25/09/2016,30000
+Seat,Ibiza,2012,Black ,Petrol ,manuel,1400,50500,private ,27/09/2016,62000
+Hyundai,Accent,2014,White ,Petrol ,Automatic,140,50000,private ,22/09/2016,72000
+Skoda,Fabia,2012,Red ,Petrol ,Automatic,1200,62000,private ,20/09/2016,62000
+Skoda,Octavia,2015,Russet ,Diesel ,manuel,1600,70000,private ,21/09/2016,115000
+Hyundai,i25,2011,White ,Diesel ,manuel,1600,70000,private ,25/09/2016,65000
+Opel,Corsa,2012,Kermidi ,Petrol ,manuel,1400,77000,private ,21/09/2016,53000
+Citroen,Ds5,2015,Russet ,Petrol ,Automatic,1600,8000,private ,26/09/2016,150000
+Volkswagen,Passat,2006,Black Metallic ,Diesel ,Automatic,2000,85000,private ,22/09/2016,70000
+Fiat,Punto,2010,Black ,Petrol ,manuel,1250,90000,private ,21/09/2016,42000
