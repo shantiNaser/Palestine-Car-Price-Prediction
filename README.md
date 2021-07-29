@@ -8,3 +8,4 @@ ML model to predict the price of cars in palestine
 *  applay RAndomForest
 *  evaluote the result with MSE
 
+Later we Modify this project with to be More Accurate and discussed as a graduation project , [Follow This Link](https://github.com/akramAssi/graduation_projects) To More Details
